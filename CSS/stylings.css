@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+
+
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    background-color: #f5ee8a;
+  
+
+.hero {
+    background-color: rgb(161, 199, 73);
+    margin: 10px;
+    padding: 10px 10px;
+}
+.fexample, h1 {
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(15, 15, 15);
+}
+
+h1 {
+    font-size: 80px;
+    letter-spacing: 5px;
+}
+
+.fexample {
+    letter-spacing: 2px;
+}
+
+.dname {
+    text-shadow: 1px 1px 2px black;
+}

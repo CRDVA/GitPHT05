@@ -1,0 +1,33 @@
+p 
+    {
+     color:rebeccapurple;
+    }
+
+.parag1 
+    {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+#parag2
+    {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    }   
+
+h3[href]
+{
+    color: rgb(156, 148, 29);
+}    
+
+[href]
+{
+    font-size: 20px;
+}
+
+a[href="https://www.google.com"] {
+    color: cornflowerblue;
+}
+
+button:hover
+{
+    background-color:  yellowgreen;
+}
